@@ -65,7 +65,7 @@ function About() {
                     alt=""
                   />
                 </div>
-                <div className="items-center p-4 flex flex-col justify-center mr-10">
+                <div className="items-center p-4 flex flex-col justify-center mr-20">
                   <div className=" text-white text-xl">
                     Calculate your Profits
                   </div>
@@ -85,7 +85,7 @@ function About() {
                     alt=""
                   />
                 </div>
-                <div className="items-center p-4 flex flex-col justify-center mr-10">
+                <div className="items-center p-4 flex flex-col justify-center mr-20">
                   <div className=" text-white text-xl">
                   Calculate your tax liability
                   </div>

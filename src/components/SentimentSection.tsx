@@ -119,7 +119,7 @@ function SentimentSection() {
               <div className="flex p-2 items-center">
                 <div className="text-[#7C7E8C] text-[15px] mr-9">Hold</div>
                 <div className="md:w-8 w-4 h-2">
-                  <div className="bg-[#C7C8CE] h-full rounded-lg "></div>
+                  <div className="bg-[#C7C8CE] h-full rounded-lg"></div>
                 </div>
                 <div className="ml-3 text-[#7C7E8C] text-sm">8%</div>
               </div>
