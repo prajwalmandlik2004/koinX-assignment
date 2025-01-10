@@ -76,7 +76,7 @@ function SentimentSection() {
                   mattis enim tincidunt.
                 </div>
                 <div className="relative">
-                  <div className="absolute top-1/2 left-full transform -translate-y-1/2 -ml-8 bg-white p-4 rounded-full cursor-pointer">
+                  <div className="absolute mt-10 top-1/2 left-full transform -translate-y-1/2 -ml-8 bg-white p-4 rounded-full cursor-pointer">
                     <FaAngleRight className="text-[#757779]" />
                   </div>
                 </div>
