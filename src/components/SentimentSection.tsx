@@ -9,7 +9,7 @@ function SentimentSection() {
         <div className="flex items-center py-2 mt-2">
           <div className="text-[#44475B] font-semibold text-xl">Key Events</div>
           <div className="">
-            <IoMdInformationCircle className="text-[#ABB9BF] text-lg ml-2" />
+            <IoMdInformationCircle className="text-[#ABB9BF] text-lg ml-2 mt-1" />
           </div>
         </div>
         <div className="lg:flex overflow-x-auto">
